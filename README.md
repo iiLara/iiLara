@@ -1,6 +1,3 @@
 - 👋 I’m @iiLara
 - 👀 I like Programming and designing games! (As do many on this site)
-<!---
-iiLara/iiLara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- You'll likely find me on my main [Plokie](https://github.com/Plokie), though I'm not so professional under that alias, you've been warned!
